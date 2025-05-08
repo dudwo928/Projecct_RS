@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.cs text eol=lf
+*.unity text eol=lf
+*.prefab text eol=lf
+# 줄바꿈 통일용
